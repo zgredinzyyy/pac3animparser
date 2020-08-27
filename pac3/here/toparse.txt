@@ -1,0 +1,385 @@
+children:
+self:
+		Bone	=	spine 1
+		ClassName	=	bone
+		UniqueID	=	40113150
+children:
+		1:
+				children:
+						1:
+								children:
+										1:
+												children:
+														1:
+																children:
+																self:
+																		Bone	=	right toe
+																		ClassName	=	bone
+																		UniqueID	=	1593096876
+												self:
+														Bone	=	right foot
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	3812149039
+								self:
+										Angles	=	0.000 12.300 0.000
+										Bone	=	right calf
+										ClassName	=	bone
+										EditorExpand	=	true
+										UniqueID	=	3022016993
+				self:
+						Angles	=	0.000 -15.300 13.900
+						Bone	=	right thigh
+						ClassName	=	bone
+						EditorExpand	=	true
+						UniqueID	=	2690086881
+		2:
+				children:
+						1:
+								children:
+										1:
+												children:
+														1:
+																children:
+																self:
+																		Bone	=	left toe
+																		ClassName	=	bone
+																		UniqueID	=	2276127341
+												self:
+														Bone	=	left foot
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	1764831570
+								self:
+										Bone	=	left calf
+										ClassName	=	bone
+										EditorExpand	=	true
+										UniqueID	=	1577427053
+				self:
+						Angles	=	-3.900 1.400 -16.000
+						Bone	=	left thigh
+						ClassName	=	bone
+						UniqueID	=	2135752719
+		3:
+				children:
+				self:
+						ClassName	=	bone
+						EditorExpand	=	true
+						UniqueID	=	2334724473
+		4:
+				children:
+						1:
+								children:
+										1:
+												children:
+														1:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	0.000 -42.500 0.000
+																										Bone	=	left finger 32
+																										ClassName	=	bone
+																										UniqueID	=	2254760071
+																				self:
+																						Angles	=	16.500 -36.600 0.000
+																						Bone	=	left finger 31
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	25418328
+																self:
+																		Angles	=	15.700 -21.700 0.000
+																		Bone	=	left finger 3
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	1323913904
+														2:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	18.200 -17.100 0.000
+																										Bone	=	left finger 42
+																										ClassName	=	bone
+																										UniqueID	=	1526532754
+																				self:
+																						Angles	=	0.000 -29.000 0.000
+																						Bone	=	left finger 41
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1209452421
+																self:
+																		Angles	=	53.600 -37.200 0.000
+																		Bone	=	left finger 4
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	2124571573
+														3:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	7.500 -49.600 0.000
+																										Bone	=	left finger 22
+																										ClassName	=	bone
+																										UniqueID	=	2355059238
+																				self:
+																						Angles	=	0.000 -31.500 0.000
+																						Bone	=	left finger 21
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1484696376
+																self:
+																		Angles	=	11.500 -19.400 0.000
+																		Bone	=	left finger 2
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	367278319
+														4:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	-17.700 -51.000 0.000
+																										Bone	=	left finger 12
+																										ClassName	=	bone
+																										UniqueID	=	1770725389
+																				self:
+																						Angles	=	0.000 -22.700 0.000
+																						Bone	=	left finger 11
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1547346817
+																self:
+																		Angles	=	0.000 -24.600 0.000
+																		Bone	=	left finger 1
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	138387060
+														5:
+																children:
+																		1:
+																				children:
+																				self:
+																						Bone	=	left finger 02
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1488026340
+																self:
+																		Angles	=	0.000 32.000 0.000
+																		Bone	=	left finger 01
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	2618245760
+												self:
+														Bone	=	left hand
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	2126673163
+								self:
+										Angles	=	-24.700 -99.900 0.000
+										Bone	=	left forearm
+										ClassName	=	bone
+										EditorExpand	=	true
+										UniqueID	=	1192950210
+				self:
+						Angles	=	-49.400 18.800 52.200
+						Bone	=	left upperarm
+						ClassName	=	bone
+						EditorExpand	=	true
+						UniqueID	=	3137622970
+		5:
+				children:
+						1:
+								children:
+										1:
+												children:
+														1:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	-17.900 -36.000 0.000
+																										Bone	=	right finger 42
+																										ClassName	=	bone
+																										UniqueID	=	3528899600
+																				self:
+																						Angles	=	0.000 -53.600 0.000
+																						Bone	=	right finger 41
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1735946416
+																self:
+																		Angles	=	-56.700 -62.200 0.000
+																		Bone	=	right finger 4
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	2662591463
+														2:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	0.000 -55.900 0.000
+																										Bone	=	right finger 12
+																										ClassName	=	bone
+																										UniqueID	=	1277251836
+																				self:
+																						Angles	=	0.000 -54.700 0.000
+																						Bone	=	right finger 11
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	107859881
+																self:
+																		Angles	=	5.900 -35.900 0.000
+																		Bone	=	right finger 1
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	4215577371
+														3:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	0.000 -72.000 0.000
+																										Bone	=	right finger 32
+																										ClassName	=	bone
+																										UniqueID	=	3964620324
+																				self:
+																						Angles	=	0.000 -37.300 0.000
+																						Bone	=	right finger 31
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	3994529778
+																self:
+																		Angles	=	-26.400 -60.500 0.000
+																		Bone	=	right finger 3
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	30905479
+														4:
+																children:
+																		1:
+																				children:
+																				self:
+																						Angles	=	0.000 23.400 0.000
+																						Bone	=	right finger 02
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1523372577
+																self:
+																		Bone	=	right finger 01
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	337065471
+														5:
+																children:
+																		1:
+																				children:
+																						1:
+																								children:
+																								self:
+																										Angles	=	0.000 -69.100 0.000
+																										Bone	=	right finger 22
+																										ClassName	=	bone
+																										UniqueID	=	1105970910
+																				self:
+																						Angles	=	0.000 -33.400 0.000
+																						Bone	=	right finger 21
+																						ClassName	=	bone
+																						EditorExpand	=	true
+																						UniqueID	=	1236729159
+																self:
+																		Angles	=	-15.600 -55.000 0.000
+																		Bone	=	right finger 2
+																		ClassName	=	bone
+																		EditorExpand	=	true
+																		UniqueID	=	3014251962
+												self:
+														Bone	=	right hand
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	4159609840
+								self:
+										Angles	=	13.600 -72.800 44.800
+										Bone	=	right forearm
+										ClassName	=	bone
+										EditorExpand	=	true
+										UniqueID	=	3451340514
+				self:
+						Angles	=	36.600 -55.700 -50.800
+						Bone	=	right upperarm
+						ClassName	=	bone
+						UniqueID	=	3076004791
+		6:
+				children:
+						1:
+								children:
+										1:
+												children:
+												self:
+														Bone	=	spine 2
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	3562516564
+										2:
+												children:
+												self:
+														Angles	=	0.000 0.000 8.800
+														Bone	=	spine 4
+														ClassName	=	bone
+														UniqueID	=	3247414503
+										3:
+												children:
+												self:
+														Bone	=	spine
+														ClassName	=	bone
+														EditorExpand	=	true
+														UniqueID	=	3400054264
+										4:
+												children:
+												self:
+														Bone	=	spine 1
+														ClassName	=	bone
+														UniqueID	=	40113150
+								self:
+										Bone	=	spine
+										ClassName	=	bone
+										EditorExpand	=	true
+										UniqueID	=	3631939836
+						2:
+								children:
+								self:
+										Bone	=	right clavicle
+										ClassName	=	bone
+										UniqueID	=	735919978
+						3:
+								children:
+								self:
+										Bone	=	left clavicle
+										ClassName	=	bone
+										UniqueID	=	4044220471
+				self:
+						Bone	=	pelvis
+						ClassName	=	bone
+						EditorExpand	=	true
+						UniqueID	=	681897250
+self:
+		ClassName	=	group
+		EditorExpand	=	true
+		Name	=	animbase
+		UniqueID	=	572046169
